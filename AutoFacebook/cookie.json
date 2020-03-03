@@ -1,5 +1,26 @@
 {
-  "nicks": [
-    
+  "Nicks": [
+    {
+      "Username": "sypvudn_bowersescu_1533740491@tfbnw.net",
+      "Password": "m1yfrtkg1eu",
+      "Cookie": {
+        "SB": "U-FdXgk12ljuub_LmC72s1G7",
+        "XS": "22%3ABBKGQ3TSMqQ0gw%3A2%3A1583210839%3A-1%3A-1",
+        "C_User": "100028069530163",
+        "FR": "1ZUlPv8RvsxKNy23d.AWVaE1n1dAeZb78KvM0cvwwWX8c.BeXeFT.xr.AAA.0.0.BeXeFX.AWWRFt8J",
+        "DATR": "U-FdXs5BHzpYw7Oe5lrBhasa"
+      }
+    },
+    {
+      "Username": "dcxjatc_putnamstein_1533740513@tfbnw.net",
+      "Password": "nj77rawk5yc",
+      "Cookie": {
+        "SB": "U-FdXuoZMsWvkrb5HgK01LaY",
+        "XS": "36%3AhrrSGQ2Sa46MCQ%3A2%3A1583210839%3A-1%3A-1",
+        "C_User": "100027886271601",
+        "FR": "1DBV0Bx1ROjVmhQ8M.AWVoTDNM9hf_AT65ROhSwGbKO1g.BeXeFT.W8.AAA.0.0.BeXeFX.AWXsq_OF",
+        "DATR": "U-FdXrfEHMnKRxGye9fJ5YDT"
+      }
+    }
   ]
 }
